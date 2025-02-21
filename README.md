@@ -46,8 +46,3 @@ A aplicação abrirá no seu navegador padrão.
 - **Streamlit** (para interface interativa)
 - **Pandas** (para manipulação de dados)
 
-## 📬 Contato
-Caso tenha dúvidas ou sugestões, entre em contato!
-
----
-Feito com ❤️ para facilitar a busca pelas músicas mais populares! 🎶
